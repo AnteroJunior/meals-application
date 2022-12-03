@@ -3,17 +3,23 @@
   <img src='src/images/meals-application.png'>
 </p>
 
+<p align='center'>
+  <img src="https://img.shields.io/github/license/anterojunior/meals-application"/>
+</p>
+
 <h2>Description</h2>
 
 With this project you can search your favorite meals and see its recipe! 
 
 <h2>Content</h2>
 
-[Description](#description) |
-[How to use it](#use) |
-[Technologies](#technologies) |
-[Run it](#run) |
-[Author](#author)
+<p align='center'>
+  <a href='#description'>Description</a> •
+  <a href='#use'>How to use it</a> •
+  <a href='#technologies'>Technologies</a> •
+  <a href='#run'>Run it</a> •
+  <a href='#author'>Author</a>
+</p>
 
 <h2 id='use'>How to use it</h2>
 You can select any meal you want in the initial page or you can search a meal by name. In case you want to get surprised just click 'Random Meal' button.<br>
