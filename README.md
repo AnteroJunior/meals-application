@@ -18,6 +18,7 @@ With this project you can search your favorite meals and see its recipe!
   <a href='#use'>How to use it</a> •
   <a href='#technologies'>Technologies</a> •
   <a href='#run'>Run it</a> •
+  <a href='#features'>Features</a> •
   <a href='#author'>Author</a>
 </p>
 
@@ -51,6 +52,16 @@ First you have to install:
 <code>npm start</code>
 
 Now you should be running the application.
+
+<h2 id='features'>Features 🚧</h2>
+Things I want to add according to my development studies:
+
+- [x] Get data from TheMealDB API
+- [x] User can search meals by name
+- [x] Random Meal button
+- [x] User can save to localStorage
+- [ ] User registration 🚧
+- [ ] Database (stop using localStorage) 🚧
 
 <div>
  <h2 id='author'>Author</h2>
