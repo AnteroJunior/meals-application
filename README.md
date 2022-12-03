@@ -1,21 +1,23 @@
-<h1 style='text-align: center'>Meals Application</h1>
-
-## Description
-With this project you can search your favorite meals and see its recipe! 
-
-## Content
-<p style='text-align: center'>
- <a href="#description">Description</a> •
- <a href="#how-use">How to use it</a> •
- <a href="#technologies">Technologies</a> • 
- <a href="#run">Run it</a> • 
- <a href="#how-developed">How it was developed</a> • 
- <a href="#author">Author</a>
+<h1 align="center">Meals Application</h1>
+<p align="center">
+  <img src='src/images/meals-application.png'>
 </p>
 
-<h2 id='description'>How to use it</h2>
-You can select any meal you want in the initial page or you can search a meal by name. In case you want to get surprised just click 'Random Meal' button.
-Loved the meal? Click in the heart and make it part of your favorite meals. You can see right under the search bar.
+<h2>Description</h2>
+
+With this project you can search your favorite meals and see its recipe! 
+
+<h2>Content</h2>
+
+[Description](#description) |
+[How to use it](#use) |
+[Technologies](#technologies) |
+[Run it](#run) |
+[Author](#author)
+
+<h2 id='use'>How to use it</h2>
+You can select any meal you want in the initial page or you can search a meal by name. In case you want to get surprised just click 'Random Meal' button.<br>
+Loved the meal? Click ❤️ and make it part of your favorite meals. You can see right under the search bar.
 
 <h2 id='technologies'>Technologies</h2>
 For this project I used:
@@ -44,14 +46,9 @@ First you have to install:
 
 Now you should be running the application.
 
-<h2>Meals Application live</h2>
-    <p style='text-align: center'>
-        <img src='/images/meals-application.png' width='200' height='200' />
-    </p>
-
-<h2 id='author'>Author</h2>
-<div style='display: flex; flex-direction: column; align-items: center;'>
-    <img src="https://avatars.githubusercontent.com/u/25884170?v=4" width='100' height='100' style='border-radius: 10px'/>
+<div>
+ <h2 id='author'>Author</h2>
+    <img src="https://avatars.githubusercontent.com/u/25884170?v=4" width='100' height='100'/>
     <h3>Antero Júnior</h3>
     <p>Made with ❤️ by Antero Júnior
     <p style='text-align: center'>
