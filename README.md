@@ -7,6 +7,8 @@
   <img src="https://img.shields.io/github/license/anterojunior/meals-application"/>
 </p>
 
+<p align='center'>Live on <a href="https://meals-application.vercel.app/">Vercel</a></p>
+
 <h2>Description</h2>
 
 With this project you can search your favorite meals and see its recipe! 
